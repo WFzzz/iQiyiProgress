@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    
+    <declare-styleable name="iQiyiProgress">
+        <attr name="progressBackground" format="color"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="triangleColor" format="color"/>
+        <attr name="progressWidth" format="dimension"/>
+        <attr name="triangDiameter" format="dimension"/>
+    </declare-styleable>
+    
+
+</resources>
