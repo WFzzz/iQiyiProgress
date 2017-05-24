@@ -1,4 +1,4 @@
-package com.src.wfzzz;
+package com.src.test;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
